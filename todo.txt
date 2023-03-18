@@ -1,0 +1,9 @@
+- Make sure Guardians have ManyToMany relationship with students
+- Make students modifiable only to admins
+- add admins, teachers, janitors, drivers, security, and parents to the ecosystem
+- add attendance system
+- add validation to reports scores entry
+
+
+- emailable parents
+- some required fields are not necessary like *student email address
